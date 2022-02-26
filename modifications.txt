@@ -1,0 +1,10 @@
+package.json
+package.json
+../../../../Library/Application Support/Code/Workspaces/1645789036518/workspace.json
+../../../../Library/Application Support/Code/Workspaces/1645789036518/workspace.json
+../../../../Library/Application Support/Code/Workspaces/1645789036518/workspace.json
+../../../../Library/Application Support/Code/Workspaces/1645789036518/workspace.json
+angular.json
+www/manifest.json
+src/manifest.json
+../../../../Library/Application Support/Code/Workspaces/1645789036518/workspace.json

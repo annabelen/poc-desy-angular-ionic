@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+    production: false,
+    //apiUrl: 'http://localhost:8083',
+    //urlRedirect: 'ionic://appDGA',
+    //urlRedirect: 'https://private-107df-juanmaortiz.apiary-mock.com/redirect',
+    urlRedirect: 'https://private-6a898-dga.apiary-mock.com/mfe',
+    urlLogin: 'https://preaplicaciones.aragon.es/mfe_core/rest/identification/GCCTBK/'
 };
 
 /*
